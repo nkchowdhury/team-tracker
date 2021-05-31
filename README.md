@@ -1,5 +1,5 @@
 This project was created as a programming hero assignment.
-It mainly uses React Routing and API.
+React Routing and API were mainly used in this project.
 I tried my best to make the project.
 
 
